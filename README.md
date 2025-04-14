@@ -2,7 +2,7 @@
 Comment téléchargé le fichier Simulink?
 - Simplement téléchargé la copie brute (Raw Copy) en selectionant ArduinoDUE.slx sur le dessus de ce message.
 
-Comment faire foncitonner le Bi-Copter?
+Comment faire fonctionner le Bi-Copter?
 - Après avoir branché le Bi-Copter au port USB de l'ordinateur hôte, Il faut faire l'installation du fichier Simulink et du Simulink Support Package for Arduino Hardware
 qui est disponible dans la section Add-Ons - Get Hardware Support Pakages sur MultiSim.
 
